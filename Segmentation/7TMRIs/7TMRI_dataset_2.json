@@ -1,0 +1,323 @@
+{
+        "name": "7T MRI for downstream segmentation",
+        "date": "19/04/2023",
+        "description": "Contains extracted 7TMRI 2D slices for cartilage segmentation (half dataset)",
+        "labels": {
+                "0": "background",
+                "1": "cartilage"
+        },
+        "numTrain": 63,
+        "numTest": 14,
+        "train": [
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_R_034.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_R_034.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_054.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_054.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_R_023.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_R_023.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_052.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_052.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer1_R_023.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer1_R_023.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_030.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_030.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_058.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_058.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_L_050.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_L_050.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_R_027.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_R_027.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer1_R_024.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer1_R_024.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_048.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_048.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_061.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_061.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_032.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_032.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer1_R_025.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer1_R_025.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_051.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_051.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_023.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_023.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_R_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_R_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_022.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_022.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_030.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_030.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_057.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_057.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_055.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_055.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer2_R_025.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer2_R_025.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_057.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_057.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_053.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_053.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_050.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_050.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_049.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_049.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_046.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_046.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_R_024.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_R_024.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_L_059.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_L_059.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_024.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_024.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_058.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_058.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_053.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_053.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_L_053.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_L_053.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_030.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_030.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_049.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_049.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_R_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_R_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_060.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_060.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_R_031.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_R_031.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer2_R_030.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer2_R_030.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer1_R_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer1_R_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_054.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_054.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_053.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_053.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_050.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_050.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_055.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_055.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_R_036.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_R_036.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_R_057.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_R_057.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_R_030.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_R_030.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_L_051.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_L_051.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer2_R_026.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer2_R_026.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_050.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_050.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_027.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_027.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_053.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_053.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_057.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_057.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_L_054.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_L_054.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_051.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_051.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject2_L_059.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject2_L_059.seg"
+                }
+        ],
+        "test": [
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_058.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_058.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer2_L_047.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer2_L_047.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_033.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_033.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer1_R_022.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer1_R_022.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_024.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_024.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer4_R_021.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer4_R_021.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_031.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_031.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_054.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_054.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_L_059.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_L_059.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/subject1_R_027.im",
+                        "label": "7TMRIs/LABELS_SINGLE/subject1_R_027.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer2_R_029.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer2_R_029.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/footballer3_R_028.im",
+                        "label": "7TMRIs/LABELS_SINGLE/footballer3_R_028.seg"
+                },
+                {
+                        "image": "7TMRIs/IMAGES/Ffootballer1_L_031.im",
+                        "label": "7TMRIs/LABELS_SINGLE/Ffootballer1_L_031.seg"
+                }
+        ]
+}

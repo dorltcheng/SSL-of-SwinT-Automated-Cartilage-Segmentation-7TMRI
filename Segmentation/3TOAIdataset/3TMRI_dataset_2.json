@@ -1,0 +1,3271 @@
+{
+        "name": "OAIChallengeDataset (labelled) for segmentation test",
+        "date": "28/03/2023",
+        "description": "Contains extracted 2D images slices from OAI Challenge Dataset for cartilage segmentation (newly extracted)",
+        "labels": {
+                "0": "background",
+                "1": "cartilage"
+        },
+        "numTrain": 666,
+        "numTest": 148,
+        "train": [
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_048.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V00_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V00_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V00_054.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V00_069.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V00_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V00_099.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V01_089.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V01_089.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V01_123.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V01_123.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V00_041.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V00_041.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_070.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_070.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_092.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_092.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V01_090.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V01_090.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_069.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_108.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V01_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V01_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_049.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_110.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V00_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V00_065.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V00_065.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V01_059.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V01_103.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V01_040.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V01_040.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V01_060.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_043.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_043.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_080.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_080.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V01_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V00_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V00_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_066.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_082.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_082.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_036.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_036.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_126.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_126.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V00_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V01_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_081.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_081.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V01_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_106.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_117.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_117.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V01_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V01_065.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V01_065.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V01_086.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V01_086.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V00_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_090.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_090.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V00_048.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V01_108.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V01_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_093.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_093.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V00_106.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_063.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V01_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V01_055.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_094.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_103.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V00_112.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_060.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V01_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V01_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_051.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V01_066.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V01_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_122.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_122.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V00_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V00_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V01_043.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V01_043.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_056.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_095.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V01_062.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V00_046.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V00_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V01_038.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V01_038.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_121.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_121.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_088.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_088.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V00_111.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V01_036.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V01_036.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V00_042.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V00_042.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_039.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_039.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V00_067.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V00_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V01_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V00_117.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V00_117.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V01_059.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_041.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_041.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_093.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_093.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_043.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_043.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_115.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V00_075.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V00_075.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V01_059.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V01_103.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_090.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_090.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_110.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V01_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V01_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V01_112.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_035.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_035.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V00_069.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V00_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V00_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_091.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_091.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V01_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_069.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_115.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V00_119.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V00_119.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V01_067.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V01_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V00_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V00_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V00_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V00_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_084.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_084.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V01_067.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V01_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V01_089.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V01_089.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V01_042.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V01_042.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V00_056.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V00_039.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V00_039.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V01_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_078.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_078.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_083.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_083.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V00_067.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V00_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_063.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V00_050.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V01_061.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_106.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V01_120.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V01_120.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V00_116.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V00_116.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_094.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V01_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V01_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V00_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V00_072.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V00_072.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V00_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V00_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V01_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V00_098.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V01_065.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V01_065.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_100.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V01_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V01_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V01_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_114.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_108.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_056.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V01_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V01_064.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V01_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_079.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_079.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_099.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V01_116.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V01_116.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V00_062.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V01_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V01_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V00_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V00_061.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V00_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V00_091.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V00_091.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_040.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_040.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V00_063.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V00_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_077.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_077.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V00_050.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_037.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_037.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V01_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V01_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V01_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V01_066.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V01_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V01_063.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V01_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V00_058.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V01_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V00_043.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V00_043.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_078.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_078.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V01_122.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V01_122.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_109.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_080.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_080.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_093.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_093.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V00_066.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V00_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_089.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_089.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V00_065.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V00_065.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V01_069.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V01_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_088.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_088.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_119.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_119.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_038.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_038.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_114.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V00_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_091.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_091.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_127.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_127.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V00_039.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V00_039.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_113.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V01_071.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V01_071.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V01_118.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V01_118.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V00_103.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V01_111.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V01_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_053.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V01_039.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V01_039.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V00_100.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_043.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_043.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_113.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V01_104.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_066.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V01_119.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V01_119.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V01_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V01_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V00_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V00_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V01_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V01_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V01_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_097.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V01_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_052.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_068.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_068.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_077.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_077.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V00_108.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V01_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V00_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V00_103.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V01_057.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V01_053.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_037_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_037_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_059.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_008_V01_114.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_008_V01_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V01_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V01_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V01_063.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V01_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V00_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V00_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V01_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V00_112.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V01_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V00_049.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V00_116.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V00_116.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V01_063.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V01_063.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V01_105.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_085.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_085.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_042_V01_061.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_042_V01_061.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V00_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V00_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_041.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_041.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V00_091.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V00_091.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V00_067.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V00_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V01_056.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_003_V01_055.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_003_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_005_V00_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_005_V00_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V00_067.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V00_067.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V01_098.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V01_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_110.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_111.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V01_058.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_040.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_040.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V00_069.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V00_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_096.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V01_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V01_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_102.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_092.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_092.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_017_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_017_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V01_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V01_037.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V01_037.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_073.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_073.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_025_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_025_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_010_V00_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_010_V00_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_060.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_060.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_108.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_108.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V01_064.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V01_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_033_V00_092.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_033_V00_092.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V01_093.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V01_093.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V01_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V01_113.seg"
+                }
+        ],
+        "test": [
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V00_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_039.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_039.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V01_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_120.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_120.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_050.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_101.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_041_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_041_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V01_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V01_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V01_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_002_V00_111.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_002_V00_111.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V01_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_011_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_011_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V00_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V00_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V01_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_123.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_123.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_054.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_116.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_116.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_006_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_006_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V01_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_040.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_040.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_004_V00_109.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_004_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_060_V01_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_060_V01_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_120.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_120.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V01_034.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V01_034.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V01_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V01_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V01_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_020_V00_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_020_V00_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V00_053.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_021_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_021_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V01_104.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V01_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_015_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_015_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_059_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_059_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_035.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_035.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_048.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_048.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_043_V00_113.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_043_V00_113.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V01_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V01_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V00_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V00_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_051.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_044_V00_041.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_044_V00_041.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V01_102.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V01_102.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_012_V01_044.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_012_V01_044.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_056_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_056_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_066.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_066.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_040_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_040_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V01_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V00_059.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V00_059.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V01_053.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V01_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_036_V01_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_036_V01_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_049_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_049_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V00_094.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V01_088.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V01_088.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V00_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V00_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V00_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V00_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_117.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_117.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V00_052.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_028_V01_110.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_028_V01_110.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_007_V01_091.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_007_V01_091.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_024_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_024_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_007_V00_051.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_007_V00_051.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_076.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_076.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_011_V01_107.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_011_V01_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_104.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_104.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_001_V00_053.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_001_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_010_V00_098.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_010_V00_098.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V01_103.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V01_103.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_029_V00_114.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_029_V00_114.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_027_V01_049.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_027_V01_049.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V01_117.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V01_117.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_035_V01_099.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_035_V01_099.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_046.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_046.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_002_V00_094.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_002_V00_094.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V01_047.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V01_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_051_V00_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_051_V00_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_014_V01_038.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_014_V01_038.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_009_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_009_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V00_109.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V00_109.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_039_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_039_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_023_V01_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_023_V01_095.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_054_V01_079.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_054_V01_079.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_053_V00_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_053_V00_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_030_V01_052.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_030_V01_052.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V00_047.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V00_047.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_026_V01_050.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_026_V01_050.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_005_V00_070.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_005_V00_070.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_038_V00_058.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_038_V00_058.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_046_V00_055.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_046_V00_055.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_019_V00_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_019_V00_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_009_V00_101.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_009_V00_101.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V01_105.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V01_105.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V01_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V01_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V01_036.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V01_036.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_096.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_096.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_058_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_058_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_022_V00_045.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_022_V00_045.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_032_V00_054.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_032_V00_054.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_004_V01_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_004_V01_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_001_V01_064.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_001_V01_064.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_012_V01_057.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_012_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_065.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_065.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_008_V00_089.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_008_V00_089.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V01_042.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V01_042.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V01_106.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V01_106.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_013_V01_057.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_013_V01_057.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V01_069.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V01_069.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V00_124.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V00_124.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_014_V00_092.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_014_V00_092.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_034_V01_070.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_034_V01_070.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_006_V01_092.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_006_V01_092.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_016_V00_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_016_V00_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_052_V01_100.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_052_V01_100.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_057_V00_084.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_057_V00_084.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_050_V00_097.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_050_V00_097.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_055_V01_056.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_055_V01_056.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_045_V00_107.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_045_V00_107.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dvalid/IMAGES/valid_013_V00_075.im",
+                        "label": "OAIdataset/2Dvalid/LABELS_SINGLE/valid_013_V00_075.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_031_V01_062.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_031_V01_062.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_047_V01_115.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_047_V01_115.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_048_V00_112.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_048_V00_112.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_018_V00_053.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_018_V00_053.seg"
+                },
+                {
+                        "image": "OAIdataset/2Dtrain/IMAGES/train_003_V00_095.im",
+                        "label": "OAIdataset/2Dtrain/LABELS_SINGLE/train_003_V00_095.seg"
+                }
+        ]
+}

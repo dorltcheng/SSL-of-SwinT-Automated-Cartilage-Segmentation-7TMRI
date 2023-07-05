@@ -32,13 +32,13 @@ Stage 2 involves downstream segmentation on 2D labelled 3T MRI and 7T (target) M
 ## Results
 ### Stage 1: SSL Pretraining
 Image Inpainting task in Single-tasking SSL Pretraining:
-<img src="imgs/SingleSSL_results.png" alt="Single-tasking SSL" style="width: 70%;">
+<img src="imgs/SingleSSL_results.png" alt="Single-tasking SSL" style="width: 40%;">
 
 Image Inpainting task in Multi-tasking SSL Pretraining:
-<img src="imgs/MultiSSL_results.png" alt="Multi-tasking SSL" style="width: 70%;">
+<img src="imgs/MultiSSL_results.png" alt="Multi-tasking SSL" style="width: 50%;">
 
 Validation loss curves of all three pretext tasks in Multi-tasking SSL Pretraining:
-<img src="imgs/multiSSL_valLosses.png" alt="Multi-tasking Validation" style="width: 70%;">
+<img src="imgs/multiSSL_valLosses.png" alt="Multi-tasking Validation" style="width: 40%;">
 
 ### Stage 2: Supervised Downstream Segmentation
 The best performance is achieved with multi-tasking SSL pretrained model on 7T MRI with a Dice score of 0.938.

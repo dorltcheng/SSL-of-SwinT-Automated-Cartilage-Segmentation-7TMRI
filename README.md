@@ -29,7 +29,31 @@ Stage 2 involves downstream segmentation on 2D labelled 3T MRI and 7T (target) M
 |`Test.ipynb`             |Segmentation Prediction on the test dataset and model comparisons
 
 
+## Results
+### Stage 1: SSL Pretraining
+Image Inpainting task in Single-tasking SSL Pretraining:
+![Single-tasking SSL](imgs/SingleSSL_results.png)
 
+Image Inpainting task in Multi-tasking SSL Pretraining:
+![Multi-tasking SSL](imgs/MultiSSL_results.png)
+
+Validation loss curves of all three pretext tasks in Multi-tasking SSL Pretraining:
+![Multi-tasking Validation](imgs/MultiSSL_valLosses.png)
+
+### Stage 2: Supervised Downstream Segmentation
+The best performance is achieved with multi-tasking SSL pretrained model on 7T MRI with a Dice score of 0.938.
+
+|Experiment                 |Dice on 3T OAI Challenge Dataset       |Dice on 7T MRI Dataset
+|-----                      |--------------------------------       |----------------------
+|1. No SSL                  |0.888                                  |0.928
+|2. Single-tasking SSL      |0.902                                  |0.932
+|**3. Multi-tasking SSL**   |**0.903**                              |**0.938**
+
+Example of 3T cartilage segmentation prediction:
+![3T Prediction](imgs/3TSeg_results2_new.png)
+
+Example of 7T cartilage segmentation prediction:
+![7T Prediction](imgs/7TSeg_results2_new.png)
 
 
 

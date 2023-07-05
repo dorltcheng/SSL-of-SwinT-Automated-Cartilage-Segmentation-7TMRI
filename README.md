@@ -32,7 +32,7 @@ Stage 2 involves downstream segmentation on 2D labelled 3T MRI and 7T (target) M
 ## Results
 ### Stage 1: SSL Pretraining
 Image Inpainting task in Single-tasking SSL Pretraining:
-<img src="imgs/MultiSSL_results.png" alt="Multi-tasking SSL" width="300" height="200">
+<img src="imgs/MultiSSL_results.png" alt="Multi-tasking SSL" style="width: 70%;">
 
 Image Inpainting task in Multi-tasking SSL Pretraining:
 ![Multi-tasking SSL](imgs/MultiSSL_results.png)

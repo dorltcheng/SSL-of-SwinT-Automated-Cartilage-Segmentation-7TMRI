@@ -12,7 +12,7 @@ Stage 1 involves SSL pretraining (single-tasking and multi-tasking SSL) on 2D un
 
 |File                   |Description          
 |----                   |------------             
-|`OAIquery.ipynb`       |Preprocessing of the [OAI](https://nda.nih.gov/oai/) database and image slices extraction
+|`OAIquery.ipynb`       |Preprocessing of [the OAI database](https://nda.nih.gov/oai/) and image slices extraction
 |`main_singleSSL.py`    |Single-tasking SSL pretraining 
 |`main_multiSSL.py`     |Multi-tasking SSL pretraining
 |`SSLResults.ipynb`     |SSL pretraining results evaluation

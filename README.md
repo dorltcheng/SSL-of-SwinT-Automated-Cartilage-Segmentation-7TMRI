@@ -23,7 +23,7 @@ Stage 2 involves downstream segmentation on 2D labelled 3T MRI and 7T (target) M
 
 |File                     |Description          
 |----                     |------------             
-|`3TOAIdataloader.ipynb`  |Preprocessing of the [3T OAI Challenge Dataset]([https://nda.nih.gov/oai/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8231759/)) and image slices extraction
+|`3TOAIdataloader.ipynb`  |Preprocessing of [the 3T OAI Challenge Dataset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8231759/) and image slices extraction
 |`7Tdataloader.ipynb`     |Preprocessing of the 7T MRI and image slices extraction
 |`main.py`                |Downstream segmentation training
 |`Test.ipynb`             |Segmentation Prediction on the test dataset and model comparisons
